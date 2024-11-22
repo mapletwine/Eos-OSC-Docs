@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # Unofficial Eos OSC Docs
 
 > [!WARNING]
