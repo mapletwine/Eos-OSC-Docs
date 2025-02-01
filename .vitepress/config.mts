@@ -26,7 +26,7 @@ export default defineConfig({
         link: '/',
         items: [
           { text: "Connecting", link: "/connecting" },
-          { text: "List of commands", link: "/list-of-commands" },
+          { text: "List of commands", link: "/list-of-commands/index.md" },
           { text: "Advanced", link: "/advanced" },
         ],
       },
